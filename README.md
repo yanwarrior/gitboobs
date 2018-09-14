@@ -10,9 +10,11 @@ When the page is loaded in your smartphone browser, a notification will appear t
 
 ## Quick Review
 This is the appearance of the application when opened with a browser with Nexus 5x device scenario.
+
 ![](https://github.com/yanwarsolah/gitboobs/blob/master/pwaoverview.PNG)
 
 This is an audit result from Chrome tools:
+
 ![](https://github.com/yanwarsolah/gitboobs/blob/master/PWA01.PNG)
 
 ## Build Setup
